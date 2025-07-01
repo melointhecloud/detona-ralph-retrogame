@@ -34,11 +34,6 @@ Jogo estilo "Whac-a-Mole" com tema do Detona Ralph, desenvolvido com JavaScript 
 - **Frontend**: HTML5, CSS3, JavaScript Vanilla
 - **Hospedagem**: GitHub Pages
 
-## 📸 Screenshots
-| Menu Inicial | Gameplay | Game Over |
-|--------------|----------|-----------|
-| <img src="assets/images/screenshot1.png" width="200"> | <img src="assets/images/screenshot2.png" width="200"> | <img src="assets/images/screenshot3.png" width="200"> |
-
 ## 📁 Estrutura do Projeto
 
 detona-ralph/
